@@ -1,0 +1,13 @@
+Steps:
+1.Install java
+2.Goto Android studio on chrome
+	- Download Android Studio Electric Eel
+	- Scroll and checkbox
+	- Download Android studio Electric Eel
+3.Double click the .exe file
+4.Next, Next, Next, Next, Install, Next, Finish
+5.Open and select New project tab
+6.No Activity select
+7.language select to java, insted of Kotline
+8.Minimum SDk
+9.Finish
